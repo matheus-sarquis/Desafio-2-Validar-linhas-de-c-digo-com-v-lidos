@@ -1,0 +1,8 @@
+{[]} - Correto
+([)] - Incorreto
+[{()()}[]] - Correto
+{}()[()]] - Incorreto
+)[{}]()( - Incorreto
+(()[)] - Incorreto
+<<[]()>> - Correto
+<<()[<>}> - Incorreto
